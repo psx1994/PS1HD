@@ -1,0 +1,12 @@
+{
+    "i18nVersion": "Version: ",
+    "i18nBuildNumber": "Build Number: ",
+    "i18nCommit": "Commit: ",
+    "i18nBranch": "Branch: ",
+    "i18nBuilder": "Builder: ",
+    "i18nBuildDate": "Build Date: ",
+    "i18nBuildwith": "Build with: ",
+    "i18nBuildopts": "Build opts: ",
+    "i18nPlatform": "Platform: ",
+    "i18nLocale": "Locale: "
+}
